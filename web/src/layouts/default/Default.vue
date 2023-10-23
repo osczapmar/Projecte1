@@ -1,8 +1,10 @@
 <template>
   <v-app>
+    <v-layout class="rounded rounded-md">
     <default-bar />
-
+    
     <default-view />
+  </v-layout>
   </v-app>
 </template>
 
