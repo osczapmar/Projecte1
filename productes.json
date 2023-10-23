@@ -1,0 +1,165 @@
+{
+    "productes": [
+      {
+        "idProducte": 1,
+        "nomProducte": "Pomes",
+        "quantitat": 5,
+        "preu": 2.99,
+        "imatge": "pomes.jpg",
+        "descripció": "Pomes fresques de temporada."
+      },
+      {
+        "idProducte": 2,
+        "nomProducte": "Arròs",
+        "quantitat": 2,
+        "preu": 1.50,
+        "imatge": "arros.jpg",
+        "descripció": "Arròs de gra llarg."
+      },
+      {
+        "idProducte": 3,
+        "nomProducte": "Llet",
+        "quantitat": 3,
+        "preu": 0.99,
+        "imatge": "llet.jpg",
+        "descripció": "Llet fresca en envas de 1 litre."
+      },
+      {
+        "idProducte": 4,
+        "nomProducte": "Pa integral",
+        "quantitat": 2,
+        "preu": 2.49,
+        "imatge": "pa_integral.jpg",
+        "descripció": "Pa integral recent fornejat, perfecte per a entrepans saludables."
+      },
+      {
+        "idProducte": 5,
+        "nomProducte": "Pollastre",
+        "quantitat": 2,
+        "preu": 6.99,
+        "imatge": "pollastre.jpg",
+        "descripció": "Pollastre fresc de granja, sense hormones afegides."
+      },
+      {
+        "idProducte": 6,
+        "nomProducte": "Iogurt",
+        "quantitat": 6,
+        "preu": 1.25,
+        "imatge": "iogurt.jpg",
+        "descripció": "Iogurt natural, baix en greix, en envas individual."
+      },
+      {
+        "idProducte": 7,
+        "nomProducte": "Cereals",
+        "quantitat": 4,
+        "preu": 3.99,
+        "imatge": "cereals.jpg",
+        "descripció": "Cereals integrals amb fruites seques i nous."
+      },
+      {
+        "idProducte": 8,
+        "nomProducte": "Oli d'oliva",
+        "quantitat": 3,
+        "preu": 5.49,
+        "imatge": "oli_oliva.jpg",
+        "descripció": "Oli d'oliva verge extra, ideal per cuinar i amanir amanides."
+      },
+      {
+        "idProducte": 9,
+        "nomProducte": "Tomàquets",
+        "quantitat": 6,
+        "preu": 1.29,
+        "imatge": "tomaquets.jpg",
+        "descripció": "Tomàquets frescos de l'horta local."
+      },
+      {
+        "idProducte": 10,
+        "nomProducte": "Tonyina enllaunada",
+        "quantitat": 8,
+        "preu": 1.99,
+        "imatge": "tonyina.jpg",
+        "descripció": "Tonyina en oli, enllaunada i llesta per utilitzar a les teves receptes."
+      },
+      {
+        "idProducte": 11,
+        "nomProducte": "Ous",
+        "quantitat": 12,
+        "preu": 2.49,
+        "imatge": "ous.jpg",
+        "descripció": "Dotzena d'ous frescos de gallines camperoles."
+      },
+      {
+        "idProducte": 12,
+        "nomProducte": "Pasta",
+        "quantitat": 5,
+        "preu": 1.79,
+        "imatge": "pasta.jpg",
+        "descripció": "Pasta de blat, perfecta per als teus plats de pasta preferits."
+      },
+      {
+        "idProducte": 13,
+        "nomProducte": "Enciam",
+        "quantitat": 4,
+        "preu": 1.00,
+        "imatge": "enciam.jpg",
+        "descripció": "Enciam fresc i cruixent, ideal per a amanides."
+      },
+      {
+        "idProducte": 14,
+        "nomProducte": "Formatge cheddar",
+        "quantitat": 3,
+        "preu": 4.29,
+        "imatge": "formatge_cheddar.jpg",
+        "descripció": "Formatge cheddar madur, perfecte per a entrepans i aperitius."
+      },
+      {
+        "idProducte": 15,
+        "nomProducte": "Paper higiènic",
+        "quantitat": 10,
+        "preu": 3.99,
+        "imatge": "paper_higienic.jpg",
+        "descripció": "Rellotge de paper higiènic suau i resistent."
+      },
+      {
+        "idProducte": 16,
+        "nomProducte": "Cafè",
+        "quantitat": 2,
+        "preu": 5.99,
+        "imatge": "cafe.jpg",
+        "descripció": "Cafè mòlt de torrefacció mitjana, ideal per a la teva cafetera."
+      },
+      {
+        "idProducte": 17,
+        "nomProducte": "Galetes",
+        "quantitat": 7,
+        "preu": 2.49,
+        "imatge": "galetes.jpg",
+        "descripció": "Galetes de xocolata amb xips i farciment de crema."
+      },
+      {
+        "idProducte": 18,
+        "nomProducte": "Detergent",
+        "quantitat": 2,
+        "preu": 6.49,
+        "imatge": "detergent.jpg",
+        "descripció": "Detergent líquid per a rentadora, fórmula concentrada."
+      },
+      {
+        "idProducte": 19,
+        "nomProducte": "Plàtans",
+        "quantitat": 6,
+        "preu": 1.49,
+        "imatge": "platans.jpg",
+        "descripció": "Plàtans madurs i llestos per menjar."
+      },
+      {
+        "idProducte": 20,
+        "nomProducte": "mantega",
+        "quantitat": 4,
+        "preu": 2.99,
+        "imatge": "mantega.jpg",
+        "descripció": "Mantega sense sal, perfecta per cuinar i untar."
+      }
+    ]
+  }
+  
